@@ -8,5 +8,5 @@ Primero y segundo cuatrimestre de 2022 del curso K1051
 * Nombre: Bianca Joaquina
 
 
-### Indice de proyectos :construction:
+### Proyectos :construction:
 - [ ] Trabajo #0 — "Hello, World!" en C++
