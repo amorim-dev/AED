@@ -2,13 +2,13 @@
 Repositorio personal para trabajos individuales de la asignatura **_Algoritmos y Estructuras de Datos_**
 * Curso K1051 en 2022  
 
-### Datos personales:
+### Datos personales
 * Legajo: 2035698
 * Apellido: Diniz Amorim
 * Nombre: Bianca Joaquina
 
 
-## Proyectos :construction:
+### Proyectos :construction:
 - [x] Trabajo #0 — "Hello, World!" en C++
 
 
