@@ -12,7 +12,7 @@ compilar, y ejecutar un programa C++.
 trabajos posteriores.
 
 
-### :receipt: Enunciado:
+### :bookmark_tabs: Enunciado:
 - [x] Crear un repositorio público llamado AED
 - [x] Escribir el archivo readme.md que actúa como front page del repositorio personal.
 - [x] Crear la carpeta 00-CppHelloWorld.
