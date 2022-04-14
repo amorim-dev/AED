@@ -20,6 +20,5 @@ Repositorio personal para trabajos individuales de la asignatura Algoritmos y Es
 
 This project is under MIT license, for more details check [LICENSE](https://github.com/amorim-dev/Launchbase-Bootcamp/blob/master/LICENSE).
 
----
 
-Made with :purple_heart: by **Bianca Amorim**. :point_right: [My social networks](https://www.linkedin.com/in/amorimbiadev/)
+
