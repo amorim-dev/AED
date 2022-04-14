@@ -1,5 +1,5 @@
 # AED
-Repositorio personal para trabajos individuales de la asignatura Algoritmos y Estructuras de Datos
+Repositorio personal para trabajos individuales de la asignatura **_Algoritmos y Estructuras de Datos_**
 * Curso K1051 en 2022  
 
 ### Datos personales
