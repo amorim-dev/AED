@@ -15,7 +15,7 @@ Repositorio personal para trabajos individuales de la asignatura Algoritmos y Es
 
 
 
-
+---
 ## :key: License:
 
 This project is under MIT license, for more details check [LICENSE](https://github.com/amorim-dev/Launchbase-Bootcamp/blob/master/LICENSE).
