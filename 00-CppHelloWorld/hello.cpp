@@ -5,9 +5,10 @@ Bianca Amorim
 */
 
 #include <iostream>
-using namespace std;
+// Podria usar (using std::cout;)
 
 int main()
 {
-    cout << "Hello, World!\n\nBy: Bianca Amorim\n";
+    std::cout << "Hello, World!\n";
+    std::cout << "\nBy: Bianca Amorim\n";
 }
