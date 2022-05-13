@@ -10,4 +10,4 @@ Cuando: 12 de mayo de 2022
 
 
 ### :bookmark_tabs: Enunciado:
-- [x] escribir un programa que ejemplifique el uso de los tipos de datos básicos de C++ vistos en clase con las siguientes restricciones: Utilice assert para probar; No extraer valores de cin, usar valores literales (constantes); No enviar valores a cout;
+- [x] Escribir un programa que ejemplifique el uso de los tipos de datos básicos de C++ vistos en clase con las siguientes restricciones: Utilice assert para probar; No extraer valores de cin, usar valores literales (constantes); No enviar valores a cout;
